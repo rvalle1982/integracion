@@ -1,4 +1,4 @@
 \# Integración TM Sync
 
-Repositorio integración con Azure Functions TM.
+Repositorio integración con Azure Functions Y TM.
 
