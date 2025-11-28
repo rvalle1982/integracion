@@ -1,0 +1,12 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Un proyecto que existe a pesar del universo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Steve (humano, aparentemente)",
+  "license": "ISC"
+}
