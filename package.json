@@ -1,12 +1,11 @@
 {
-  "name": "mi-proyecto",
+  "name": "integracion",
   "version": "1.0.0",
-  "description": "Un proyecto que existe a pesar del universo",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo \"No hay nada que compilar, pero hagamos como que sí existe\"",
+    "deploy": "echo \"Desplegando sueños rotos a Azure\""
   },
-  "keywords": [],
-  "author": "Steve (humano, aparentemente)",
-  "license": "ISC"
+  "dependencies": {}
 }
