@@ -1,5 +1,8 @@
 module.exports = async function (context, req) {
+    context.log("Function ejecutada correctamente");
+
     context.res = {
-        body: "Hola desde la Function que apenas existe"
+        status: 200,
+        body: "Hola desde tu Azure Function"
     };
 };
